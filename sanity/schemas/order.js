@@ -44,7 +44,7 @@ export default {
         },
         {
             name: 'pizzas',
-            title: "pizzas",
+            title: "Order items",
             type: "string"
         }
         
